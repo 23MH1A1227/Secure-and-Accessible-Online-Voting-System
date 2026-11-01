@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Secure Vote – AI-Based Secure Serverless Voting System
 
 A B.Tech college-project demo of an online voting system.
@@ -236,3 +237,6 @@ The `backend/`, `frontend/` and `samples/` folders in this archive were generate
 The current starter supports a basic local demo flow: demo voter ID lookup, mock OTP, candidate selection, one-vote database constraint, receipt generation, basic admin login and results endpoint. It does not yet include all of the advanced security, audit, AI/IsolationForest, CSV import, production authentication, real SMS or tested AWS deployment features described earlier. See `PROJECT_NOTES.md` before publishing or demonstrating the project.
 
 Do not use this starter for a real election or expose it publicly as a production voting system. Test it locally and revise feature claims to match what you have actually tested.
+=======
+# Secure-and-Accessible-Online-Voting-System
+>>>>>>> origin/main
